@@ -270,10 +270,11 @@ class WebVr(DgtIface):
     def display_text_on_clock(self, message):
         """Display a text on the web clock."""
         is_new_rev2 = self.dgtboard.is_revelation and self.dgtboard.enable_revelation_pi
-        if self.enable_dgtpi or is_new_rev2:
-            text = message.l
-        else:
-            text = message.m if self.enable_dgt3000 else message.s
+        # if self.enable_dgtpi or is_new_rev2:
+        #    text = message.l
+        # else:
+        #     text = message.m if self.enable_dgt3000 else message.s
+        text = message.l
         if self.get_name() not in message.devs:
             logging.debug('ignored %s - devs: %s', text, message.devs)
             return True
