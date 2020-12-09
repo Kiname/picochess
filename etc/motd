@@ -1,0 +1,36 @@
+
+------------------------------------------------------------------------
+888 88e  ,e,                      e88'Y88 888                         
+888 888D  "   e88'888  e88 88e   d888  'Y 888 ee   ,e e,   dP"Y  dP"Y 
+888 88"  888 d888  '8 d888 888b C8888     888 88b d88 88b C88b  C88b  
+888      888 Y888   , Y888 888P  Y888  ,d 888 888 888   ,  Y88D  Y88D 
+888      888  "88,e8'  "88 88"    "88,d88 888 888  "YeeP" d,dP  d,dP  
+                                                                      
+                                                                      
+,8,"88e        e88 88e     d88                                        
+ "  888D      d888 888b   d888                                        
+    88P      C8888 8888D d"888                                        
+   ,*"   d8b  Y888 888P    888                                        
+ 8888888 Y8P   "88 88"     888                                        
+                                                                      
+------------------------------------------------------------------------
+Avaliable Chess Engines (for Rpi 2B,3A,3B,3B+,4B):
+
+1.- StockFish 12	8.-  Sayuri 2018	15.- Adaptative 1.0
+2.- Texel 1.08		9.-  Floyd 0.9		16.- Wasp 4.00
+3.- Arasan V22.0	10.- Crystal		17.- Rodent IV
+4.- Rodent III		11.- CT-800		18.- Robocide
+5.- Zurich Neuchatel	12.- Laser 1.8		19.- Lc0 v0.250
+6.- WyldChess 2017	13.- Cinnamon 2.0	20.- StockFish DD
+7.- Galjoen 0.37.2	14.- Crystal Honey X5i	21.- Vajolet 2.8.0
+
+Avaliable Chess engines (for Rpi 1B, Zero):
+
+1.- StockFish 8		5.- Zurich Neuchatel	9.-  Floyd 0.9
+2.- Texel 1.08		6.- WyldChess 2017	10.- Greko 2015
+3.- Arasan V22.0	7.- Galjoen 0.37.2	11.- Hakkapeliitta 3.0
+4.- Rodent III		8.- Sayuri 2018
+
+This software & Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the 
+extent permitted by applicable law.
+
